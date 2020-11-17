@@ -36,11 +36,5 @@
       "commit-msg": "commitlint -E HUSKY_GIT_PARAMS",
       "pre-commit": "npm-run-all --parallel lint test build"
     }
-  },
-  "preCommit": {
-    "silent": true,
-    "run": [
-      "test"
-    ]
   }
 }
