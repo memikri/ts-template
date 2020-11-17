@@ -1,5 +1,7 @@
 # Template Project
 
+![Travis CI](https://travis-ci.org/shinotheshino/ts-template.svg?branch=master)
+
 This project serves as a template for TypeScript projects. It includes:
 
 - ESLint + Prettier
