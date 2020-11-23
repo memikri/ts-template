@@ -5,6 +5,8 @@
     "strict": true,
     "module": "CommonJS",
     "skipLibCheck": true,
-    "inlineSourceMap": true
+    "inlineSourceMap": true,
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true
   }
 }
